@@ -5,159 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c4b9d5f-4f7a-4ef0-8dad-05c69fc98665" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Conditions/Questions/Q_10/positive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Conditions/Questions/Q_7/largestof2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Conditions/Questions/Q_8/evenodd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Conditions/Questions/Q_9/IncomeTax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Functions/basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Functions/binocofficent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Functions/factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Functions/primeno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Functions/product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Functions/swapp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Switch/Switch_Statement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/basic/hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/basic/input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/basic/pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/basic/product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/basic/question_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/basic/questions_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/basic/sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/basic/suminput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/basic/variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/loops/Question/Q_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/loops/Question/Q_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/loops/breakstatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/pattern/alpahabet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/pattern/numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/pattern/reversestar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/pattern/star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/binarysearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/largest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/linearsearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/primenum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions/Questions/Q_10/positive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions/Questions/Q_7/largestof2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions/Questions/Q_8/evenodd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions/Questions/Q_9/IncomeTax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/basic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/binocofficent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/factorial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/primeno.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/swapp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Switch/Switch_Statement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Switch/nested/nested.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/area.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/basic/area.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/hello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/input.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/pattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/question_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/questions_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/suminput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/variables.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loops/Question/Q_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loops/Question/Q_10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loops/breakstatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/alpahabet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/numbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/reversestar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/star.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pratices/sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Arraylistexamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/arraylistexamples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Arrays_2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/arrays2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/basic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/basic_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/basic2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Functions/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/factorials.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Functions/primeno.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAVA_DSA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Array/Arraylistexamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Array/Arrays_2D.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Array/Maxvalue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Array/Multidimentionalarrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Array/Reverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Array/String_basic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Array/basic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Array/basic_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Array/sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Array/swap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/BinarySearch/Ceiling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/BinarySearch/FindingMountainArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/BinarySearch/FirstandLastPoistion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/BinarySearch/Floor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/BinarySearch/InfiniteSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/BinarySearch/MountainArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/BinarySearch/OrderAgnosticBS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/BinarySearch/RotatedBS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/BinarySearch/Searching.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/BinarySearch/SmallestLetter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Conditions/Loops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Conditions/Questions/Q_1/largest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Conditions/Questions/Q_10/positive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Conditions/Questions/Q_2/Casecheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Conditions/Questions/Q_3/fibo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Conditions/Questions/Q_4/Countnums.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Conditions/Questions/Q_5/Reverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Conditions/Questions/Q_6/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Conditions/Questions/Q_7/largestof2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Conditions/Questions/Q_8/evenodd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Conditions/Questions/Q_9/IncomeTax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Functions/Armstrongnumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Functions/Changevalue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Functions/Primenumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Functions/Stringexample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Functions/Variableargument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Functions/basic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Functions/binocofficent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Functions/factorial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Functions/function.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Functions/primeno.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Functions/product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Functions/scope.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Functions/sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Functions/swap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/LinearSearch/EvenDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/LinearSearch/MaxWealth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/LinearSearch/Minimum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/LinearSearch/SearchIn2DArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/LinearSearch/SearchinRange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/LinearSearch/mini2DArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/LinearSearch/searching.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/LinearSearch/searchingString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Switch/Switch_statement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Switch/nested/nested.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/basic/Temp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/basic/area.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/basic/hello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/basic/input.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/basic/pattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/basic/product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/basic/question_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/basic/questions_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/basic/sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/basic/suminput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/basic/variables.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/loops/Loop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/loops/Question/Q_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/loops/Question/Q_10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/loops/breakstatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/pattern/alpahabet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/pattern/numbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/pattern/reversestar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/pattern/star.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/pratices/binary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/pratices/ceiling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/pratices/code.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/pratices/leetcode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/pratices/pro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/pratices/sum.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +25,7 @@
         <entry key="$PROJECT_DIR$/src" value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -264,6 +112,7 @@
     "Application.mini2DArray.executor": "Run",
     "Application.nested.executor": "Run",
     "Application.numbers.executor": "Run",
+    "Application.pairs.executor": "Run",
     "Application.pattern.executor": "Run",
     "Application.positive.executor": "Run",
     "Application.primenum.executor": "Run",
@@ -271,10 +120,14 @@
     "Application.product.executor": "Run",
     "Application.question_2.executor": "Run",
     "Application.questions.executor": "Run",
+    "Application.reverse1.executor": "Run",
     "Application.reversestar.executor": "Run",
     "Application.searching.executor": "Run",
     "Application.searchingString.executor": "Run",
     "Application.star.executor": "Run",
+    "Application.subarraysum.executor": "Run",
+    "Application.subarraysum2.executor": "Run",
+    "Application.subarrys.executor": "Run",
     "Application.sum.executor": "Run",
     "Application.suminput.executor": "Run",
     "Application.swap.executor": "Run",
@@ -289,7 +142,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "settings.sync"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
