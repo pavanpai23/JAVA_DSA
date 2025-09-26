@@ -125,6 +125,7 @@
     "Application.searching.executor": "Run",
     "Application.searchingString.executor": "Run",
     "Application.star.executor": "Run",
+    "Application.subarray3.executor": "Run",
     "Application.subarraysum.executor": "Run",
     "Application.subarraysum2.executor": "Run",
     "Application.subarrys.executor": "Run",
