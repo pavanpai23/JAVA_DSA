@@ -143,6 +143,7 @@
     "Application.subarraysum.executor": "Run",
     "Application.subarraysum2.executor": "Run",
     "Application.subarrys.executor": "Run",
+    "Application.substring.executor": "Run",
     "Application.sum.executor": "Run",
     "Application.suminput.executor": "Run",
     "Application.swap.executor": "Run",
