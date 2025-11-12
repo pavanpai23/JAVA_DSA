@@ -1,0 +1,12 @@
+package Bitmanupulation;
+
+public class clear_ith_bit {
+    public static int clear_ith(int n,int i){
+        int bitmask=~(1<<i);
+        return n&bitmask;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(clear_ith(10,2));
+    }
+}
