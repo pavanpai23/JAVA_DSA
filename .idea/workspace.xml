@@ -157,6 +157,7 @@
     "Application.reverse1.executor": "Run",
     "Application.reversestar.executor": "Run",
     "Application.rightshift.executor": "Run",
+    "Application.rowcolMatrix.executor": "Run",
     "Application.searching.executor": "Run",
     "Application.searchingString.executor": "Run",
     "Application.selectionsort.executor": "Run",
