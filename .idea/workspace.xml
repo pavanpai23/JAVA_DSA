@@ -60,6 +60,7 @@
     "Application.First.executor": "Run",
     "Application.FirstandLastPoistion.executor": "Run",
     "Application.Floor.executor": "Run",
+    "Application.Getters_Setters.executor": "Run",
     "Application.IncomeTax.executor": "Run",
     "Application.InfiniteSortedArray.executor": "Run",
     "Application.Loop.executor": "Run",
