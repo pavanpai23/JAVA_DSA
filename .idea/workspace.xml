@@ -110,6 +110,7 @@
     "Application.clearrange.executor": "Run",
     "Application.code.executor": "Run",
     "Application.concatination.executor": "Run",
+    "Application.construters.executor": "Run",
     "Application.countRBS.executor": "Run",
     "Application.creationof2d.executor": "Run",
     "Application.diogonal.executor": "Run",
@@ -210,26 +211,6 @@
       <recent name="$PROJECT_DIR$/../../.." />
       <recent name="C:\Users\DEL" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="countRBS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.countRBS" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.countRBS" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
