@@ -146,6 +146,7 @@
     "Application.no_of_set_bits.executor": "Run",
     "Application.numbers.executor": "Run",
     "Application.onescomplement.executor": "Run",
+    "Application.optimizedPower.executor": "Run",
     "Application.or.executor": "Run",
     "Application.oroperator.executor": "Run",
     "Application.pairs.executor": "Run",
