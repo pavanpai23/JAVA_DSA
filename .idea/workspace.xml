@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c4b9d5f-4f7a-4ef0-8dad-05c69fc98665" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +62,7 @@
     "Application.FirstandLastPoistion.executor": "Run",
     "Application.Floor.executor": "Run",
     "Application.Getters_Setters.executor": "Run",
+    "Application.Gridways.executor": "Run",
     "Application.IncomeTax.executor": "Run",
     "Application.InfiniteSortedArray.executor": "Run",
     "Application.Loop.executor": "Run",
@@ -109,6 +111,7 @@
     "Application.ceiling.executor": "Run",
     "Application.changearrray.executor": "Run",
     "Application.chessboard.executor": "Run",
+    "Application.chessboardCount.executor": "Run",
     "Application.class_and_object.executor": "Run",
     "Application.clear_ith_bit.executor": "Run",
     "Application.clearlastbit.executor": "Run",
@@ -212,12 +215,12 @@
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/DEL/DSA",
+    "last_opened_file_path": "C:/Users/DEL/Strivers A2Z DSA Course",
     "onboarding.tips.debug.path": "C:/Users/DEL/DSA/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "settings.sync"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [

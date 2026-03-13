@@ -18,7 +18,7 @@ public class Permutations {
     }
 
     public static void main(String[] args) {
-            String str="abc";
+            String str="123";
             permutations(str,"");
 
     }
