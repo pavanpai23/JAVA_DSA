@@ -66,6 +66,7 @@ public class remove_first {
         return val;
     }
 
+
     public static void main(String[] args) {
 
         remove_first ll=new remove_first();
