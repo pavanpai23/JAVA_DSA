@@ -99,6 +99,7 @@
     "Application.Switch_Statement.executor": "Run",
     "Application.Switch_statement.executor": "Run",
     "Application.Temp.executor": "Run",
+    "Application.Two_d_array.executor": "Run",
     "Application.Variableargument.executor": "Run",
     "Application.Zero_One_Triangle.executor": "Run",
     "Application.abstrctClass.executor": "Run",
