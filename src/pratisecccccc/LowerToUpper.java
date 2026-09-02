@@ -1,9 +1,8 @@
 package pratisecccccc;
-
 public class LowerToUpper {
 
     public static String Uppercase(String str){
-        StringBuilder sb=new StringBuilder("");
+        stringbulider sb=new stringbulider("");
         Character ch=Character.toUpperCase(str.charAt(0));
         sb.append(ch);
 
